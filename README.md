@@ -1,6 +1,6 @@
 # Credit scoring (Decision Tree, XGBoost, RNN)
 
-*****This repository contains comparising , Decision Tree, XGBoost and RNN models for credit scoring for home loan.*****
+*****This repository contains comparising Decision Tree, XGBoost and RNN models for credit scoring for home loan.*****
 
 ### Dataset
 * Source: **https://www.kaggle.com/julianocosta/home-credit**
